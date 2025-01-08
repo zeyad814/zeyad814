@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Ziad Mohamed and I'm a Back-end Engineer .</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br><p align="left">✨I am love Problem solving ...<br>📚 I'm currently learning ...<br>🎯 Goals: become a better in my field <br>🎲 Fun fact: I Failed Many Times and still failed that's life </p>
 
 ###
 
