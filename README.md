@@ -7,25 +7,12 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Creating bugs since ...<br>
-✨ I love Problem Solving ...<br>
-📚 I'm currently learning React.<br>
-🎯 Goals: Become better in my field.<br>
-🎲 Fun fact: I failed many times and still fail—that's life!
-</p>
-
-###
-
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">I love to code, Read books, solve problems and take on challenges, and build scaleable systems </h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>CloudPay</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
+    <li>🔭 I’m currently working on <strong>Eraasoft</strong></li>
+    <li>🌱 I’m currently learning <strong>DSA,Laravel in-depth,Problem Solving</strong></li>
+    <li>📫 How to reach me <strong>zeyadmohamed1423@gmail.com</strong></li>
   </ul>
 
 <!-- CONNECTION -->
@@ -57,6 +44,9 @@
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
   <img width="12" />
+  <!-- git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+   <img width="12" />
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
